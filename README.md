@@ -9,3 +9,7 @@
 - List1
 - List2
 - List3
+
+    galp.task("styles", function(){})
+    
+    then type in terminal: galp styles
